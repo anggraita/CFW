@@ -645,7 +645,8 @@ p {
         margin-left: 5px; }
         .body .review-wrap .review-list .white-wrapper .loved .icon-heart {
           font-size: 16px;
-          margin-right: 5px; }
+          margin-right: 5px;
+          color: #7E7058; }
       .body .review-wrap .review-list .white-wrapper .prof {
         margin: 0;
         color: #A1A1A1; }
